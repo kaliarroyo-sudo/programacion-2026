@@ -5,11 +5,19 @@ La idea es similar al ejemplo clásico de una Cuenta Bancaria, pero adaptado al 
 El sistema permite:
 
 ·Crear objetos de tipo Libro con atributos como título, autor y estado (disponible o prestado).
+
 ·Mostrar detalles de cada libro.
+
 ·Prestar y devolver libros, cambiando su estado.
+
 ·Ejecutar un menú interactivo para que el usuario elija acciones en consola.
-·Este proyecto es ideal para practicar:
+
+··Este proyecto es ideal para practicar:
+
 ·Definición de clases y métodos.
+
 ·Instanciación de objetos.
+
 ·Uso de menús interactivos con bucles y condicionales.
+
 ·Organización de código en módulos (Libro.py y Main.py).
