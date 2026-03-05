@@ -1,4 +1,5 @@
 # Programación 2026
+Abdulmasshi Arroyo Dalila Kali
 Este proyecto implementa un sistema sencillo de Biblioteca Digital utilizando Programación Orientada a Objetos (POO) en Python.
 La idea es similar al ejemplo clásico de una Cuenta Bancaria, pero adaptado al contexto de una biblioteca.
 
